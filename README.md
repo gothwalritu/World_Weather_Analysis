@@ -27,7 +27,7 @@ c. Country
 d. Current weather with maximum temperature
 Below is the image of the maps with pop-up marker.
 
-![Figure2](https://github.com/gothwalritu/World_Weather_Analysis/blob/main/Vacation_Search/weatherPy_vacation_map.png))
+![Figure2](https://github.com/gothwalritu/World_Weather_Analysis/blob/main/Vacation_Search/weatherPy_vacation_map.png)
 
 
 
@@ -36,7 +36,11 @@ In this section we created a itinerary of four cities in the same country with s
 
 ![Figure_3](https://github.com/gothwalritu/World_Weather_Analysis/blob/main/Vacation_Itinerary/weatherPy_travel_map.png)
 
+
+
 Four cities of India were chosen: Narnaul, Veraval, Ranchi and Kattivakkam and shown in the following screenshot with pop-up markers.
+
+
 
 ![Figure_4](https://github.com/gothwalritu/World_Weather_Analysis/blob/main/Vacation_Itinerary/weatherPy_travel_map_markers.png)
 
